@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Work with async on JS",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "Callback",
+    "Promise",
+    "Async"
+  ],
+  "author": "Luis Fernandez",
+  "license": "MIT"
+}

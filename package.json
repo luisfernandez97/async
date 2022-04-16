@@ -12,5 +12,8 @@
     "Async"
   ],
   "author": "Luis Fernandez",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
